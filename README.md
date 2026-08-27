@@ -1,5 +1,5 @@
 # Atelier-Escha-Logy-Mechanics-Reference
-This repository contains various documents which detail obscure and hidden calculations, effects, and obscurities in A15. May be expanded later to include other games.
+This repository contains various documents which detail obscure and hidden calculations, effects, and other quirks in A15. May be expanded later to include other games.
 
 #### All documents have been tested against my experience and vetted as best I could. The bulk will be accurate, but small errors may be present. Please report any errors or inconsistencies you find in the issues section.
 
@@ -28,7 +28,7 @@ Items - Same as above, but with editable recipes, production amounts, and other 
 
 Music - Ever notice that some music is incredibly loud (Rorona Plus) and others are ridiculously quiet (early Atelier stuff)? Fix or adjust it yourself. I'll ship a pre-configured version to balance the tracks as well.
 
-Fun Stuff - Essentially just miscellaneous changes I though might be fun. Currently only contains an execution mechanic which grants a damage bonus to finisher skills if that bonus would result in a kill. 
+Fun Stuff - Essentially just miscellaneous changes I thought might be fun. Currently only contains an execution mechanic which grants a damage bonus to finisher skills if that bonus would result in a kill. 
 
 Bug Fixes - A set of individually toggleable bug fixes I noticed in-game and while conducting this project. Includes:
 
