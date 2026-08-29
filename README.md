@@ -13,13 +13,13 @@ This document contains details regarding calculations for damage, WT, buffs/debu
 ## A15SkillReference
 Contains general data on both player and enemy skills like base WT, act_tags, and targeting. Includes special notes where warranted.
 
+### A15ItemReference
+This contains general information about items and item effects in the game. It'll list the same kind of info as the skill reference as well as synth data and any noteworthy quirks.
+
 ## Future Documents
 
 ### A15Acts&ItemSubs
-Each skill, attack, accessory, armour, item effect, property, and otherwise get their actual effects from act tags and item subs. This references includes all act_tags and item_subs with information such as scaling behaviour (quality, item power, caps, fixed power, etc) variables, and so forth. This will help you reconstruct precise details from the following documents:
-
-### A15ItemReference
-This will contain general and simple information about the items in the game. It'll list the same kind of info as the skill reference as well as synth data and any noteworthy quirks.
+Each skill, attack, accessory, armour, item effect, property, and otherwise get their actual effects from act tags and item subs. This references includes all act_tags and item_subs with information such as scaling behaviour (quality, item power, caps, fixed power, etc) variables, and so forth. This will help you reconstruct precise details from the item and skill docs.
 
 
 ## Future Plans:
