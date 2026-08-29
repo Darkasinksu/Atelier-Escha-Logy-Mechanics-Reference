@@ -10,13 +10,16 @@ In a fit of frustration, I decided to violently throw this game at the metaphori
 ## A15MechanicsReference
 This document contains details regarding calculations for damage, WT, buffs/debuffs, status effects, and et cetera. Most of the general under-the-hood details are here.
 
+## A15SkillReference
+Contains general data on both player and enemy skills like base WT, act_tags, and targeting. Includes special notes where warranted.
+
 ## Future Documents
 
 ### A15Acts&ItemSubs
 Each skill, attack, accessory, armour, item effect, property, and otherwise get their actual effects from act tags and item subs. This references includes all act_tags and item_subs with information such as scaling behaviour (quality, item power, caps, fixed power, etc) variables, and so forth. This will help you reconstruct precise details from the following documents:
 
-### A15ItemReference/A15SkillReference
-These contain more general and simple information about the skills and items in the game. It'll list the attached act_tags with their values (base power/WT, etc) and give a short summary of the effects and/or quirks.
+### A15ItemReference
+This will contain general and simple information about the items in the game. It'll list the same kind of info as the skill reference as well as synth data and any noteworthy quirks.
 
 
 ## Future Plans:
